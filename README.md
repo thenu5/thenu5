@@ -36,14 +36,17 @@
 ---
 
 
-### 🚀 My GitHub Stats  
+<h3 align="center">🚀 GITHUB STATS:</h3>
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenu5&show_icons=true&theme=radical)  
 
-### 🏆 Top Languages  
+<h3 align="center">📊 TOP LANGUAGES:</h3>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenu5&layout=compact&theme=tokyonight)  
  
 
-### 📊 GitHub Profile Trophy  
+<h3 align="center">🏆 TROPHIES:</h3>  
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thenu5&theme=onedark&margin-w=10)
 
 
