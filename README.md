@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Jubmwzempmamg5ZWRlZXdic2h5aTJka255bHhnOGludTFnaHZ1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc1f8hcZ7LBe2Zzy/giphy.gif" width="100%" alt="Header GIF">
+</p>
+
 <h1 align="center">🌐Passionate Web Developer | Aspiring Cybersecurity Professional🔒</h1>
 
 <p align="center">
