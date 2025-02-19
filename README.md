@@ -38,7 +38,7 @@
 
 <h3 align="center">🚀 GITHUB STATS:</h3>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenu5&show_icons=true&theme=radical)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenu5&show_icons=true&theme=radical&cache_seconds=86400)  
 
 <h3 align="center">📊 TOP LANGUAGES:</h3>
 
