@@ -71,10 +71,7 @@
   <a href="https://gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://twitter.com/yourusername">
-   <img src="https://img.shields.io/badge/TWITTER%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yourusername">
+  <a href="https://www.instagram.com/kob_ishan?igsh=MTJydW5yN2QxMDg2dA==">
     <img src="https://img.shields.io/badge/INSTAGRAM%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
